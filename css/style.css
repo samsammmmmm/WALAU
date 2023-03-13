@@ -1313,6 +1313,8 @@ audio::-webkit-media-controls-panel {
 /* Removes the timeline */
 audio::-webkit-media-controls-timeline {
     display: none !important;
+    /* color: var(--white); */
+    /* background-color: var(--black); */
 }
 
 /* Removes the time stamp */

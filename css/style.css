@@ -1285,9 +1285,34 @@ ol li {
 
 
 
+video,
+iframe{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+audio{
+    margin-top: 1rem;
+    /* rotate: -90deg; */
+    right: 2rem;
+    position: fixed;
+   /* border: 2px solid var(--black); */
+}
 
 
-audio {}
+/* audio::-webkit-media-controls-play-button{
+    rotate: 90deg;
+}
+
+audio::-webkit-media-controls-mute-button{
+    rotate: 90deg;
+}
+
+audio::-webkit-media-controls-return-to-realtime-button{
+    rotate: 90deg;
+} */
 
 
 .brnone {

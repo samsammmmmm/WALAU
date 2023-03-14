@@ -1278,12 +1278,13 @@ ol li {
 
 
 
-                    /* SEARCH CSS */
+                    /* SEARCH CSS ...*/ 
 
 .form-cari form{
 
     display: flex;
     gap: 1.5rem;
+    /*  */
 
 }
 
@@ -1294,6 +1295,7 @@ ol li {
      padding: 1.4rem;
      font-size: 1.8rem;
      color: var(--black);
+     /*  */
 
 }
 
@@ -1304,6 +1306,7 @@ ol li {
     color: var(--white);
     cursor: pointer;
     font-size: 2rem;
+    /*  */
 
 }
 
@@ -1311,6 +1314,7 @@ ol li {
 
     background-color: var(--blue);
     color: var(--black);
+    /*  */
 
 }
 
